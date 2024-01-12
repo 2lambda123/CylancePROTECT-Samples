@@ -10,7 +10,7 @@
   "license": "Apache 2.0",
   "dependencies": {
     "express": "^4.17.1",
-    "firebase-admin": "^9.5.0",
+    "firebase-admin": "^11.11.1",
     "simple-syslog-server": "^1.0.0",
     "sqlite3": "^5.0.2",
     "winston": "^3.3.3"
